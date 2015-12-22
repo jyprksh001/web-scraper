@@ -1,0 +1,16 @@
+{
+  "name": "jsdom",
+  "version": "1.0.0",
+  "description": "web scraping",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jay Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.9.0",
+    "node-jsdom": "^3.1.5",
+    "node-schedule": "^0.6.0"
+  }
+}
