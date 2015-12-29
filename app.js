@@ -6,7 +6,7 @@ var connection = mysql.createConnection({
   host     : 'localhost',
   user     : 'root',
   password : '@nurAdh2',
-  database : 'remitr',
+  database : 'dbname',
   port: 3306,
   multipleStatements: true
 });
